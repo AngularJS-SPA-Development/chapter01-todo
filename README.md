@@ -1,4 +1,4 @@
-chapter01-todo
-==============
+This is my todo appliction using angular.js
 
-ToDo 애플리케이션 만들기 
+  - chapter 1 : make a todo web
+  - chapter 2 : make the todo web to directive
